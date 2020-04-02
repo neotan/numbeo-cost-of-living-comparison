@@ -10,3 +10,9 @@ For visualizing multiple cities' data from www.numbeo.com/cost-of-living/
 1. Will see Charts and Table be attached on the page
 1. Change the city names(split them with comma) in Cities field
 1. Press Enter key or click the Submit button
+
+## Screenshots
+### Charts
+![](https://github.com/neotan/numbeo-cost-of-living-comparison/blob/master/numbeo1.png)
+### Tabel
+![](https://github.com/neotan/numbeo-cost-of-living-comparison/blob/master/numbeo2.png)
