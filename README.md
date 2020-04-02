@@ -4,7 +4,7 @@
 For visualizing multiple cities' data from www.numbeo.com/cost-of-living/ 
 
 ## Usage
-1. Install Tampermonkey
+1. Install [Tampermonkey](https://www.tampermonkey.net/)
 1. Install [this script](https://greasyfork.org/en/scripts/395215-numbeo-cost-of-living-comparison)
 1. Open www.numbeo.com or its sub routes
 1. Will see Charts and Table be attached on the page
